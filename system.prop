@@ -1,0 +1,14 @@
+# system.prop for k2_ul
+
+ro.sf.lcd_density=240
+persist.timed.enable=true
+persist.gps.qmienabled=true
+
+ro.baseband.arch=msm
+ro.telephony.call_ring.multiple=false
+ro.telephony.call_ring.delay=3000
+rild.libargs=-d /dev/smd0
+rild.libpath=/system/lib/libril-qc-qmi-1.so
+ro.vendor.extension_library=/system/lib/libqc-opt.so
+ro.telephony.default_network=9
+telephony.lteOnGsmDevice=1

@@ -1,0 +1,126 @@
+# Executables
+bin/akmd
+bin/charging
+bin/mm-qcamera-daemon
+bin/mpdecision
+bin/netmgrd
+bin/qmuxd
+bin/thermald
+
+# Configuration files
+
+etc/agps_rm
+
+# Bluetooth
+etc/firmware/BCM4334B0_002.001.013.0942.0949.hcd
+
+# Adreno
+etc/firmware/a300_pfp.fw
+etc/firmware/a300_pm4.fw
+etc/firmware/vidc.b00
+etc/firmware/vidc.b01
+etc/firmware/vidc.b02
+etc/firmware/vidc.b03
+etc/firmware/vidc.mdt
+etc/firmware/vidc_1080p.fw
+lib/egl/eglsubAndroid.so
+lib/egl/libEGL_adreno200.so
+lib/egl/libGLESv1_CM_adreno200.so
+lib/egl/libGLESv2S3D_adreno200.so
+lib/egl/libGLESv2_adreno200.so
+lib/egl/libq3dtools_adreno200.so
+lib/libc2d2_a3xx.so
+lib/libc2d2_z180.so
+lib/libC2D2.so
+lib/libgsl.so
+lib/libllvm-a3xx.so
+lib/libOpenCL.so
+lib/libOpenVG.so
+lib/libsc-a3xx.so
+
+# Audio
+lib/libacdbloader.so
+lib/libaudcal.so
+lib/libcsd-client.so
+
+# Camera
+lib/hw/camera.msm8960.so
+lib/libBeautyChat.so
+lib/libcameraasd.so
+lib/libcameraface.so
+lib/libcamerapp.so
+lib/libcam_oem_plugin.so
+lib/libchromatix_s5k3h2yx_default_video.so
+lib/libchromatix_s5k3h2yx_hdr.so
+lib/libchromatix_s5k3h2yx_hfr.so
+lib/libchromatix_s5k3h2yx_preview.so
+lib/libchromatix_s5k3h2yx_zsl.so
+lib/libchromatix_s5k6a1gx_default_video.so
+lib/libchromatix_s5k6a1gx_hdr.so
+lib/libchromatix_s5k6a1gx_hfr.so
+lib/libchromatix_s5k6a1gx_preview.so
+lib/libchromatix_s5k6a1gx_zsl.so
+lib/libgemini.so
+lib/libhtccamera_yushaniiproc.so
+lib/libHTC_DIS.so
+lib/libimage-jpeg-dec-omx-comp.so
+lib/libimage-jpeg-enc-omx-comp.so
+lib/libmmcamera_aec.so
+lib/libmmcamera_faceproc.so
+lib/libmmcamera_frameproc.so
+lib/libmmcamera_hdr_lib.so
+lib/libmmcamera_image_stab.so
+lib/libmmcamera_interface2.so
+lib/libmmcamera_rawchipproc.so
+lib/libmmcamera_rubik.so
+lib/libmmcamera_statsproc31.so
+lib/libmmcamera_wavelet_lib.so
+lib/libmmipl.so
+lib/libmmjpeg.so
+lib/liboemcamera.so
+lib/libposteffect.so
+
+# GPS
+lib/libgeofence.so
+lib/libloc_api_v02.so
+
+# QMI
+lib/libdiag.so
+lib/libdsi_netctrl.so
+lib/libdsutils.so
+lib/libidl.so
+lib/libqcci_legacy.so
+lib/libqdi.so
+lib/libqdp.so
+lib/libqmi.so
+lib/libqmi_cci.so
+lib/libqmi_client_qmux.so
+lib/libqmi_common_so.so
+lib/libqmi_csi.so
+lib/libqmi_encdec.so
+lib/libqmiservices.so
+
+# Radio
+lib/libnetmgr.so
+lib/libqc-opt.so
+lib/libril-qc-qmi-1.so
+lib/libril-qcril-hook-oem.so
+
+# Sensors
+lib/hw/sensors.msm8960.so
+lib/libimu.so
+lib/libmllite.so
+lib/libmlplatform.so
+lib/libmpl.so
+lib/libmpl_jni.so
+
+
+# Widevine
+lib/libQSEEComAPI.so
+vendor/lib/libwvm.so
+vendor/lib/libWVStreamControlAPI_L1.so
+
+# Wifi
+etc/firmware/fw_bcm4334.bin
+etc/firmware/fw_bcm4334_apsta.bin
+etc/firmware/fw_bcm4334_p2p.bin
