@@ -61,11 +61,10 @@ lib/libchromatix_s5k6a1gx_hfr.so
 lib/libchromatix_s5k6a1gx_preview.so
 lib/libchromatix_s5k6a1gx_zsl.so
 lib/libgemini.so
-lib/libhtccamera_yushaniiproc.so
+lib/libhtccamera.so
 lib/libHTC_DIS.so
 lib/libimage-jpeg-dec-omx-comp.so
 lib/libimage-jpeg-enc-omx-comp.so
-lib/libmmcamera_aec.so
 lib/libmmcamera_faceproc.so
 lib/libmmcamera_frameproc.so
 lib/libmmcamera_hdr_lib.so
@@ -81,7 +80,6 @@ lib/liboemcamera.so
 lib/libposteffect.so
 
 # GPS
-lib/libgeofence.so
 lib/libloc_api_v02.so
 
 # QMI
@@ -108,15 +106,8 @@ lib/libril-qcril-hook-oem.so
 
 # Sensors
 lib/hw/sensors.msm8960.so
-lib/libimu.so
-lib/libmllite.so
-lib/libmlplatform.so
-lib/libmpl.so
-lib/libmpl_jni.so
-
 
 # Widevine
-lib/libQSEEComAPI.so
 vendor/lib/libwvm.so
 vendor/lib/libWVStreamControlAPI_L1.so
 
